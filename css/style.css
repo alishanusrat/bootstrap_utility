@@ -1,0 +1,9 @@
+.box2{
+width:200px;
+height:200px;
+background-color: yellow;
+}
+.box3{
+	border:solid 5px red;
+	background-color: #dddddd;
+}
